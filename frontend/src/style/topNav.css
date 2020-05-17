@@ -1,0 +1,31 @@
+.loged {
+    height: 100%;
+    float: left;
+    padding-left: 10px;
+}
+
+.Buttons {
+    height: 100%;
+    float: right;
+}
+
+.Buttons ul {
+    float: right;
+    height: 100%;
+    margin: 0;
+}
+
+.Buttons ul li {
+    display: inline-block;
+    height: 100%;
+    line-height: 100%;
+    vertical-align: center;
+    text-align: center;
+    margin-right: 10px;
+    padding-right: 5px;
+    display: inline-block;
+}
+
+.Buttons button {
+    height: 100%;
+}

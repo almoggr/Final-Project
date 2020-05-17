@@ -1,0 +1,52 @@
+.home .NewEvents {
+    width: 70%;
+    margin: 0 auto;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.header {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+}
+
+.Top-Nav {
+    height: 30px;
+    width: 100%;
+    background-color: green;
+}
+
+.welcome .NewEvents {
+    min-height: 100px;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    background-color: brown;
+    overflow: hidden;
+    float: left;
+    margin-left: 55px;
+}
+
+.Side-Nav {
+    min-height: 10px;
+    min-width: 15%;
+    background-color: blue;
+    overflow: hidden;
+    float: left;
+    padding-right: 10px;
+}
+
+.Info-Nav {
+    min-width: 15%;
+    background-color: yellow;
+    overflow: hidden;
+    float: right;
+    padding-right: 10px;
+}
+
+.Nav ul {
+    margin: 0;
+}

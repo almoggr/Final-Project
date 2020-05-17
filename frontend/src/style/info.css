@@ -1,0 +1,14 @@
+.box {
+    margin-left: 10px;
+    padding-left: 10px;
+    width: 80%;
+    background-color: red;
+}
+
+.info button {
+    margin-left: 100px;
+}
+
+.box button {
+    margin-left: 20px;
+}

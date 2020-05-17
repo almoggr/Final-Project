@@ -1,0 +1,13 @@
+.Sign {
+    margin-top: 10px;
+    background-color: silver;
+    width: 60%;
+    min-height: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.head h4 {
+    background-color: blue;
+    margin: 0 auto;
+}
